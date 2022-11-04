@@ -46,3 +46,7 @@
     <li>Créer 3 élements HTML, chacun redirigeant vers le site hhtps://github.com : </ul>
     <li>Ces 3 élements seront : un text, une image, un boutton</ul>
 </ol>
+<hr>
+<a href="https://github.com"><p>{donnée}</p></a>
+<a href="https://github.com" ><img src="./Capture d'écran_20221104_175501.png"></a>
+<a href="https://github.com"><button>{donnée}</button></a>
