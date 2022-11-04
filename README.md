@@ -58,3 +58,8 @@
 <a href="https://developer.mozilla.org/fr/docs/Web/HTML/Element/img"><p>https://developer.mozilla.org/fr/docs/Web/HTML/Element/img</p></a>
 <br>
 <a href="https://developer.mozilla.org/fr/docs/Web/HTML/Element/button"><p>https://developer.mozilla.org/fr/docs/Web/HTML/Element/button</p></a>
+<h1>Tâche 3</h1>
+<h2>Description</h2>
+<ol>
+    <li>Reproduire le modèle suivant : </li>
+</ol>
