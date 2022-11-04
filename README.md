@@ -64,3 +64,5 @@
     <li>Reproduire le modèle suivant : </li>
 </ol>
 <img src="Capture d'écran_20221104_203724.png">
+<h2>Contrainte</h2>
+<p>Utilisé les attributs "id" et "class" pour réussir la tâche.</p>
