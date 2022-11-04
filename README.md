@@ -67,5 +67,4 @@
 <h2>Contrainte</h2>
 <p>Utilisé les attributs "id" et "class" pour réussir la tâche.</p>
 <h2>Sources : </h2>
-<br>
 <a href="https://developer.mozilla.org/fr/docs/Learn/Getting_started_with_the_web/CSS_basics" >https://developer.mozilla.org/fr/docs/Learn/Getting_started_with_the_web/CSS_basics</a>
