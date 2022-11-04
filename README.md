@@ -63,3 +63,4 @@
 <ol>
     <li>Reproduire le modèle suivant : </li>
 </ol>
+<img src="Capture d'écran_20221104_203724.png">
