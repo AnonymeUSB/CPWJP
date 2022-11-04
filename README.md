@@ -74,3 +74,7 @@
     <li>Reproduire le robot suivant : </li>
 </ol>
 <img src="./Capture d'écran_20221104_204657.png">
+<h2>Contrainte</h2>
+<p>Utilisé les attributs "id" et "class" pour réussir la tâche.</p>
+<h2>Source : </h2>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius" >https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius</a>
