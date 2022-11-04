@@ -68,7 +68,7 @@
 <p>Utilisé les attributs "id" et "class" pour réussir la tâche.</p>
 <h2>Source : </h2>
 <a href="https://developer.mozilla.org/fr/docs/Learn/Getting_started_with_the_web/CSS_basics" >https://developer.mozilla.org/fr/docs/Learn/Getting_started_with_the_web/CSS_basics</a>
-<h1>Tâche 3</h1>
+<h1>Tâche 4</h1>
 <h2>Description</h2>
 <ol>
     <li>Reproduire le robot suivant : </li>
