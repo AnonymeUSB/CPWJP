@@ -9,9 +9,9 @@
 <br>
     <h1>{Donnée}</h1>
     <em>{Donnée}</em>
-<hr>
+<br>
 <b>{Donnée}</b>
-<hr>
+<br>
 <h3>{Donnée}</h3>
 <ol>
     <li>{Donnée 1}</li>
@@ -31,7 +31,6 @@
 <ul>
     <li>'p'</li>
     <li>'br'</li>
-    <li>'hr'</li>
     <li>'h1'</li>
     <li>'h3'</li>
 </ul>
