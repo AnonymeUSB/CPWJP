@@ -52,7 +52,7 @@
 <a href="https://github.com" ><img src="./Capture d'écran_20221104_175501.png"></a>
 <a href="https://github.com"><button style="background-color: grey">{bug(censé être un bouton)}</button></a>
 <hr>
-<h2>Sourcec : </h2>
+<h2>Sources : </h2>
 <a href="https://developer.mozilla.org/fr/docs/Web/HTML/Element/a"><p>https://developer.mozilla.org/fr/docs/Web/HTML/Element/a</p></a>
 <br>
 <a href="https://developer.mozilla.org/fr/docs/Web/HTML/Element/img"><p>https://developer.mozilla.org/fr/docs/Web/HTML/Element/img</p></a>
