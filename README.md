@@ -33,4 +33,9 @@
     <li>'br'</li>
     <li>'h1'</li>
     <li>'h3'</li>
+    <li>'ol'</li>
+    <li>'ul'</li>
+    <li>'li'</li>
+    <li>'b'</li>
+    <li>'em'</li>
 </ul>
