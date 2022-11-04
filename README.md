@@ -15,14 +15,14 @@
 <h3>{Donnée}</h3>
 <ol>
     <li>{Donnée 1}</li>
-    <li>{Donnée 1}</li>
-    <li>{Donnée 1}</li>
+    <li>{Donnée 2}</li>
+    <li>{Donnée 3}</li>
 </ol>
 <p>{Donnée}</p>
 <ul>
     <li>{Donnée 1}</li>
-    <li>{Donnée 1}</li>
-    <li>{Donnée 1}</li>
+    <li>{Donnée 2}</li>
+    <li>{Donnée 3}</li>
 </ul>
 <hr>
 <h3>
