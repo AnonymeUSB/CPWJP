@@ -3,7 +3,7 @@
 <ol>
     <li>Suivre le modèle suivant : </li>
 </ol>
-<div style="background-color: grey">
+<div style="background-color: #000000">
 <br>
     <h1>{Donnée}</h1>
     <em>{Donnée}</em>
