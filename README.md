@@ -3,7 +3,7 @@
 <ol>
     <li>Suivre le modèle suivant : </li>
 </ol>
-<div style="background-color: #000000">
+
 <br>
     <h1>{Donnée}</h1>
     <em>{Donnée}</em>
@@ -22,4 +22,3 @@
     <li>{Donnée 1}</li>
     <li>{Donnée 1}</li>
 </ul>
-</div>
