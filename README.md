@@ -40,3 +40,4 @@
     <li>'em'</li>
 </ul>
 <h2>Source : <a href="https://developer.mozilla.org/fr/docs/Web/HTML/Element"><p>https://developer.mozilla.org/fr/docs/Web/HTML/Element<p></a></h2>
+<h1>Tâche #2</h1>
