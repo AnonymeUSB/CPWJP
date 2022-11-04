@@ -54,4 +54,4 @@ Autres :
 
 - '#' est utilisé pour effectué une opération sur un id.
 - '.' est utilisé pour effectué une opération sur une class.
-- 'body' est utilisé pour effectué des élements sur la page.
+- 'body' est utilisé pour effectué des opérations sur la page.
