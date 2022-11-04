@@ -43,6 +43,6 @@
 <h1>Tâche #2</h1>
 <h2>Description</h2>
 <ol>
-    <ul>Créer 3 élements HTML, chacun redirigeant vers le site hhtps://github.com : </ul>
-    <ul>Ces 3 élements seront : un text, une image, un boutton</ul>
+    <li>Créer 3 élements HTML, chacun redirigeant vers le site hhtps://github.com : </ul>
+    <li>Ces 3 élements seront : un text, une image, un boutton</ul>
 </ol>
