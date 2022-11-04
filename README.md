@@ -78,3 +78,14 @@
 <p>Utilisé les attributs "id" et "class" pour réussir la tâche.</p>
 <h2>Sources : </h2>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius" >https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius</a>
+<h1>Tâche 5 (bonus)</h1>
+<h2>Description</h2>
+<ol>
+    <li>A l'ai de text-align, centrer un titre au millieu de la page. Il faut
+    que peut importe la taille de la fenêtre, que vous la réduiser ou la rétrécissez,
+    le texte reste centrer par rapport à la page.</li>
+</ol>
+<h2>Indice : </h2>
+<p>Un div parent invisible avec la propriété 'text-align' sera nécessaire.</p>
+<h2>Sources : </h2>
+<p>Google ? A vous de cherchez !</p>
