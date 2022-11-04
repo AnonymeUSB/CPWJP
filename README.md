@@ -26,5 +26,7 @@
 <h2>Contrainte</h2>
 <p>Utilisé les balises pour réussir la tâche :</p>
 <ul>
-    <li>a</li>
+    <li>p</li>
+    <li>br</li>
+    <li>hr</li>
 </ul>
