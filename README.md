@@ -26,5 +26,5 @@
 <h2>Contrainte</h2>
 <p>Utilisé les balises pour réussir la tâche :</p>
 <ol>
-    <li><pre><p></pre></li>
+    <li><input value="<p>" disabled></li>
 </ol>
