@@ -3,7 +3,7 @@
 <ol>
     <li>Suivre le modèle suivant : </li>
 </ol>
-
+<hr>
 <br>
     <h1>{Donnée}</h1>
     <em>{Donnée}</em>
@@ -22,3 +22,9 @@
     <li>{Donnée 1}</li>
     <li>{Donnée 1}</li>
 </ul>
+<h3>
+<h2>Contrainte</h2>
+<p>Utilisé les balises pour réussir la tâche :</p>
+<ol>
+    <li><pre><p></pre></li>
+</ol>
