@@ -1,0 +1,56 @@
+========== A RETENIR ==========
+
+---------- Balises HTML ----------
+<html>  : Englobe le code de la page.
+<head>  : Englobe l'entête de la page.
+Balises <head> : <link>, <meta>, <title>, <style> ...
+
+<body>  : Englobe le reste du code...
+<p>     : Pour afficher text normal.
+<br>    : Pour les sauts de lignes.
+<h1,2..>: Affiche un texte à la taille variant en fonction du nombre (1>6).
+<b>     : Pour texte en gras.
+<em>    : Pour texte en italique.
+
+<img>   : Pour les images.
+<button>: Pour les bouton.
+<input> : Pour les entrée utilisateurs.
+<textarea>: Entrée utilisateur à grande capacité.
+<a>     : Element de redirection (lien).
+
+-----------------------------
+
+---------- Attribues HTML ----------
+
+name : Nom s'affichant au passage du curseurs.
+id   : identificateur css unique.
+class: identificateur css pour plusieurs élements.
+
+Attribues input :
+placeholder : Texte grisé à l'emplacement dans l'input.
+value       : valeur par défault de l'input.
+disabled    : Désactivation de l'input
+
+-------------------------------
+
+---------- Propriétés CSS ----------
+
+position : Gére le positionnement de l'élement.
+width    : Gére la largeur de l'élement.
+height   : Gére la langueur de l'élement.
+top      : Gére la position vertical de l'élement.
+left     : Gére la position horizontal de l'élement.
+
+background-color : Gére la couleur de fond.
+
+text-align : Gére l'alignement des élements au sein de l'élement.
+font-size  : Gére la taille du texte.
+font-family: Gére la police du text.
+color      : Gére la couleur du texte.
+
+------------------------------------
+
+Autres :
+
+- '#' est utilisé pour effectué une opération sur un id.
+- '.' est utilisé pour effectué une opération sur une class.
