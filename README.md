@@ -1,5 +1,23 @@
 <h1>Tâche #1</h1>
-<h2>Description</h2>
+<h2>Tâches</h2>
 <ol>
-    <li>Créer un fichier HTML avec écrit "" dedans</li>
+    <li>Suivre le modèle suivant : </li>
 </ol>
+<br>
+    <h1>{Donnée}</h1>
+    <em>{Donnée}</em>
+<hr>
+<b>{Donnée}</b>
+<hr>
+<h3>{Donnée}</h3>
+<ol>
+    <li>{Donnée 1}</li>
+    <li>{Donnée 1}</li>
+    <li>{Donnée 1}</li>
+</ol>
+<p>{Donnée}</p>
+<ul>
+    <li>{Donnée 1}</li>
+    <li>{Donnée 1}</li>
+    <li>{Donnée 1}</li>
+</ul>
