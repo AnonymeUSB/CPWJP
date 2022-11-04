@@ -27,7 +27,7 @@
 <hr>
 <h3>
 <h2>Contrainte</h2>
-<p>Utilisé les balises pour réussir la tâche :</p>
+<p>Utilisé ces balises pour réussir la tâche :</p>
 <ul>
     <li>'p'</li>
     <li>'br'</li>
@@ -39,3 +39,4 @@
     <li>'b'</li>
     <li>'em'</li>
 </ul>
+<h2>Source : <a href="https://developer.mozilla.org/fr/docs/Web/HTML/Element"><p>https://developer.mozilla.org/fr/docs/Web/HTML/Element<p></a></h2>
