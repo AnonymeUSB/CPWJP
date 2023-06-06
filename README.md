@@ -3,7 +3,8 @@
 <h2>Task#1</h2>
 <img src="carbon.png">
 <br>
-```function calcul(var1, var2, var3) {
+```javascript
+function calcul(var1, var2, var3) {
   if (var3 == "1"){
    	 var result = var1 + var2
   }
@@ -20,7 +21,8 @@
   return result
 }
 
-alert(calcul(3, 7, "3"))```
+alert(calcul(3, 7, "3"))
+```
 <ol>
   <li>Lisez ce code.</li>
 </ol>
