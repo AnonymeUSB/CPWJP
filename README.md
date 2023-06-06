@@ -82,3 +82,9 @@ var phrase = "Le chien promena son maître."
 <h2>Task#4</h2><sub>3 points</sub>
 <img src="carbon (4).png">
 <br>
+<ol>
+  <li>Créer un mini-jeux. Le programme génére <b>au hazard</b> un nombre entre 0 & 100.</li>
+  <li>L'utilisateur doit deviner ce nombre. Il entrera son nombre dans un prompt.</li>
+  <li>Si le nombre entrée est égal au nombre généré alors l'utilisateur gagne. Sinon, le programme lui indique si le chiffre est plus petit ou plus grand.</li>
+  <li>Le nombre de tour sera affiché quand l'utilisateur gagnera la partie.</li>
+</ol>
