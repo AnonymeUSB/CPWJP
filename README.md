@@ -1,4 +1,4 @@
-<h1>CONCOUR D'ALGhHORITHME</h1>
+<h1>CONCOUR D'ALGHORITHME</h1>
 <hr>
 <h2>Task#1</h2><sub>2 points</sub>
 <img src="carbon.png">
