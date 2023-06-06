@@ -72,4 +72,5 @@ var phrase = "Le chien promena son maître."
 <ol>
   <li>Stocker chaques mots de la chaîne de caractère dans un tableau `words`.</li>
   <li>Quel est la valeur de `world[3]` ? A quel mot correspont-il ?</li>
+  <li>Récupérer les deux premiers caractères de `world[3]`</li>
 </ol>
