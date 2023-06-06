@@ -56,7 +56,7 @@ alert(connexion(username, password, "root"))
 ```
 <ol>
   <li>Lisez ce script. A quoi correspond "root" (dernière ligne) ?</li>
-  <li>Ce script contient une erreur. Trouver le bug et résolvez-le.</li>
+  <li>Ce script contient deux erreurs. Trouver le bug et résolvez-le.</li>
   <li>Récupérer et stocker dans une variable `char` le 3ème caractère du mot de passe.</li>
 </ol>
 <h3>Ressources</h3>
