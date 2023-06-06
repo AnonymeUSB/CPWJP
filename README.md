@@ -59,3 +59,7 @@ alert(connexion(username, password, "root"))
 </ol>
 <h3>Ressources</h3>
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/String/slice" ><p>String.prototype.slice()</p></a>
+<hr>
+<h2>Task#3</h2><sub>3 points</sub>
+<img src="carbon (3).png">
+<br>
