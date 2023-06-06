@@ -80,6 +80,6 @@ var phrase = "Le chien promena son maître."
 <h2>Task#4</h2><sub>5 points</sub>
 <img src="carbon (3).png">
 <br>
-<h2>Task#3</h2><sub>3 points</sub>
+<h2>Task#4</h2><sub>3 points</sub>
 <img src="carbon (4).png">
 <br>
