@@ -63,3 +63,6 @@ alert(connexion(username, password, "root"))
 <h2>Task#3</h2><sub>3 points</sub>
 <img src="carbon (3).png">
 <br>
+```javascript
+var phrase = "Le chien promena son maître."
+```
