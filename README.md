@@ -1,6 +1,6 @@
 <h1>CONCOURS D'ALGHORITHME</h1>
 <hr>
-<h2>Task#1</h2><sub>2 points</sub>
+<h2>Task#1</h2><sub>3 points</sub>
 <img src="carbon.png">
 <br>
 
@@ -32,7 +32,7 @@ alert(calcul(3, 7, "3"))
 <h3>Ressources</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions" ><p>Functions</p></a>
 <hr>
-<h2>Task#2</h2><sub>3 points</sub>
+<h2>Task#2</h2><sub>4 points</sub>
 <img src="carbon (2).png">
 <br>
 
@@ -62,7 +62,7 @@ alert(connexion(username, password, "root"))
 <h3>Ressources</h3>
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/String/slice" ><p>String.prototype.slice()</p></a>
 <hr>
-<h2>Task#3</h2><sub>3 points</sub>
+<h2>Task#3</h2><sub>5 points</sub>
 <img src="carbon (3).png">
 <br>
 
@@ -77,7 +77,7 @@ var phrase = "Le chien promena son maître."
 <h3>Ressources</h3>
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/String/split" ><p>String.prototype.split()</p></a>
 <hr>
-<h2>Task#4</h2><sub>5 points</sub>
+<h2>Task#4</h2><sub>7 points</sub>
 <img src="carbon (4).png">
 <br>
 <ol>
