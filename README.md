@@ -78,8 +78,6 @@ var phrase = "Le chien promena son maître."
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/String/split" ><p>String.prototype.split()</p></a>
 <hr>
 <h2>Task#4</h2><sub>5 points</sub>
-<br>
-<h2>Task#4</h2><sub>3 points</sub>
 <img src="carbon (4).png">
 <br>
 <ol>
