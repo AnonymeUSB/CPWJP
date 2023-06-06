@@ -88,3 +88,6 @@ var phrase = "Le chien promena son maître."
   <li>Si le nombre entrée est égal au nombre généré alors l'utilisateur gagne. Sinon, le programme lui indique si le chiffre est plus petit ou plus grand.</li>
   <li>Le nombre de tour sera affiché quand l'utilisateur gagnera la partie.</li>
 </ol>
+<h3>Ressources</h3>
+<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Math/random" ><p>Math.random()</p></a>
+<hr>
