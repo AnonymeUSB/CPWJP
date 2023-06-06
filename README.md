@@ -63,6 +63,11 @@ alert(connexion(username, password, "root"))
 <h2>Task#3</h2><sub>3 points</sub>
 <img src="carbon (3).png">
 <br>
+
 ```javascript
 var phrase = "Le chien promena son maître."
 ```
+<ol>
+  <li>Stocker chaques mots de la chaîne de caractère dans un tableau `words`.</li>
+  <li>Quel est la valeur de `world[3]` ? A quel mot correspont-il ?</li>
+</ol>
