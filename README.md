@@ -74,3 +74,6 @@ var phrase = "Le chien promena son maître."
   <li>Quel est la valeur de `world[3]` ? A quel mot correspont-il ?</li>
   <li>Récupérer les deux premiers caractères de `world[3]`</li>
 </ol>
+<h3>Ressources</h3>
+<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/String/split" ><p>String.prototype.split()</p></a>
+<hr>
