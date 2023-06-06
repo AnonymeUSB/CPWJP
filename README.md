@@ -29,6 +29,8 @@ alert(calcul(3, 7, "3"))
   <li>Lisez ce code. Que retournera la fonction alert() ?</li>
    <li>Que retournera le script si on modifier la dernière ligne par  `alert(calcul(1, 0, "4"))` ?</li>
 </ol>
+<h3>Ressources</h3>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions" ><p>Functions</p></a>
 <hr>
 <h2>Task#2</h2><sub>3 points</sub>
 <img src="carbon (2).png">
