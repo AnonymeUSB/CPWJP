@@ -1,4 +1,4 @@
-<h1>CONCOUR D'ALGHORITHME</h1>
+<h1>CONCOURS D'ALGHORITHME</h1>
 <hr>
 <h2>Task#1</h2><sub>2 points</sub>
 <img src="carbon.png">
@@ -79,4 +79,7 @@ var phrase = "Le chien promena son maître."
 <hr>
 <h2>Task#4</h2><sub>5 points</sub>
 <img src="carbon (3).png">
+<br>
+<h2>Task#3</h2><sub>3 points</sub>
+<img src="carbon (4).png">
 <br>
