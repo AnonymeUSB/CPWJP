@@ -1,6 +1,6 @@
 <h1>CONCOUR D'ALGhHORITHME</h1>
 <hr>
-<h2>Task#1</h2>
+<h2>Task#1</h2><p>2 points</p>
 <img src="carbon.png">
 <br>
 
@@ -29,3 +29,7 @@ alert(calcul(3, 7, "3"))
   <li>Lisez ce code. Que retournera la fonction alert() ?</li>
    <li>Que retournera le script si on modifier la dernière ligne par  ```alert(calcul(1, 0, "4"))```</li>
 </ol>
+<hr>
+<h2>Task#2</h2><p>2 points</p>
+<img src="carbon.png">
+<br>
