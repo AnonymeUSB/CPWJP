@@ -26,5 +26,6 @@ function calcul(var1, var2, var3) {
 alert(calcul(3, 7, "3"))
 ```
 <ol>
-  <li>Lisez ce code.</li>
+  <li>Lisez ce code. Que retournera la fonction alert() ?</li>
+   <li>Que retournera le script si on modifier la dernière ligne par  ```alert(calcul(1, 0, "4"))```</li>
 </ol>
